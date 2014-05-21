@@ -1,3 +1,3 @@
 Develop Branch Text File
 
-Develop Branch Second Commit Test
+edit DevelopBranchTest.txt in local repository
