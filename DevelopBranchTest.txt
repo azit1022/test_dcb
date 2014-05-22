@@ -1,7 +1,3 @@
 Develop Branch Text File
 
-<<<<<<< HEAD
 edit DevelopBranchTest.txt in local repository
-=======
-edit DevelopBranchTest.txt in Master Branch in web-github
->>>>>>> bca6971de01a332a11ce5a70a1a90c6b6d4a765a
